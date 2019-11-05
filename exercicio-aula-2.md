@@ -23,14 +23,14 @@ Altura = 40dp
 Evento onClick = “metodo_click”
 
 * Boas práticas (obrigatórias):
-** Novas strings devem ficar no resource string.xml (text, hint);
-** Novas cores no colors.xml;
-** Tamanhos no dimensions.xml;
-** Nome de variáveis no layout devem ter os prefixos:
-** btn_, txt_, edt_ (separadas por _ e lowercase);
-** Nome de variáveis no código, no metodo onCreate, usar camelCase e práticas Clean Code:
-** Exemplo: btnEnviarDadosUsuario
-** Deve compilar e rodar direto no emulador sem errors ou warnings;
+* Novas strings devem ficar no resource string.xml (text, hint);
+* Novas cores no colors.xml;
+* Tamanhos no dimensions.xml;
+* Nome de variáveis no layout devem ter os prefixos:
+* btn_, txt_, edt_ (separadas por _ e lowercase);
+* Nome de variáveis no código, no metodo onCreate, usar camelCase e práticas Clean Code:
+* Exemplo: btnEnviarDadosUsuario
+* Deve compilar e rodar direto no emulador sem errors ou warnings;
 
 ### Você parou para pensar que há um dia atrás você não 
 conhecia a maioria dos termos desses exercicios?
