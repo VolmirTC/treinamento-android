@@ -22,7 +22,7 @@ Lagura = 200dp
 Altura = 40dp
 Evento onClick = “metodo_click”
 
-* Boas práticas (obrigatórias):
+## Boas práticas (obrigatórias):
 * Novas strings devem ficar no resource string.xml (text, hint);
 * Novas cores no colors.xml;
 * Tamanhos no dimensions.xml;
@@ -33,4 +33,4 @@ Evento onClick = “metodo_click”
 * Deve compilar e rodar direto no emulador sem errors ou warnings;
 
 ### Você parou para pensar que há um dia atrás você não 
-conhecia a maioria dos termos desses exercicios?
+### conhecia a maioria dos termos desses exercicios?
