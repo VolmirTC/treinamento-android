@@ -25,7 +25,7 @@
 ####  **Boas práticas (obrigatórias):**
 * Novas strings devem ficar no resource string.xml (text, hint);
 * Novas cores no colors.xml;
-* Tamanhos no dimensions.xml;
+* Tamanhos no dimens.xml;
 * Nome de variáveis no layout devem ter os prefixos:
 * btn_, txt_, edt_ (separadas por _ e lowercase);
 * Nome de variáveis no código, no metodo onCreate, usar camelCase e práticas Clean Code:
